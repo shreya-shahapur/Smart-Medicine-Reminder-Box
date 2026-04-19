@@ -54,7 +54,7 @@ void setup() {
   rtc.begin();
 
   // USE ONCE THEN COMMENT
-  rtc.adjust(DateTime(F(__DATE__), F(__TIME__)));
+ // rtc.adjust(DateTime(F(__DATE__), F(__TIME__)));
 
   digitalWrite(whiteLed, HIGH);
 }
