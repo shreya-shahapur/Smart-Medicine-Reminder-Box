@@ -4,7 +4,7 @@ An Arduino-based smart medicine reminder that alerts you at scheduled times, aut
 
 ---
 
-## ✨ Features
+## Features
 
 - Set up to **3 daily medicine alarms**
 - **Servo motor** rotates to dispense medicine when alarm triggers
@@ -15,7 +15,7 @@ An Arduino-based smart medicine reminder that alerts you at scheduled times, aut
 
 ---
 
-## 🛠️ Components / Hardware Used
+## Components / Hardware Used
 
 | Component | Details |
 |---|---|
@@ -30,7 +30,7 @@ An Arduino-based smart medicine reminder that alerts you at scheduled times, aut
 
 ---
 
-## 📦 Libraries Required
+## Libraries Required
 
 Install these via **Arduino IDE → Tools → Manage Libraries**:
 
@@ -41,7 +41,7 @@ Install these via **Arduino IDE → Tools → Manage Libraries**:
 
 ---
 
-## 📌 Pin Configuration
+## Pin Configuration
 
 | Component | Pin |
 |---|---|
@@ -59,7 +59,7 @@ Install these via **Arduino IDE → Tools → Manage Libraries**:
 
 ---
 
-## 🚀 How to Use
+## How to Use
 
 1. Wire up all components as per the pin configuration above
 2. Install the required libraries in Arduino IDE
@@ -84,7 +84,7 @@ Install these via **Arduino IDE → Tools → Manage Libraries**:
 
 ---
 
-## ⚠️ Important Note
+## Important Note
 
 > After uploading the code for the **first time**, always comment out the following line:
 > ```cpp
@@ -94,7 +94,8 @@ Install these via **Arduino IDE → Tools → Manage Libraries**:
 
 ---
 
-## 📷 Project Photo
+## Project Photo
+![Medicine Reminder Box](project.jpeg)
 
 
 
